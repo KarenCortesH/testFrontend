@@ -15,7 +15,7 @@ const App: React.FC = () => {
 
   return (
     <div className="flex justify-center items-center h-screen">
-      <FormData onFormSubmit={handleFormSubmit} />
+      {/* <FormData onFormSubmit={handleFormSubmit} /> */}
       <MapContainer latitude={latitude} longitude={longitude} />
     </div>
   );
