@@ -50,7 +50,7 @@ const MapContainer = ({ latitude, longitude }) => {
   };
 
   return (
-    <LoadScript googleMapsApiKey="AIzaSyCfaV_uJuYmbhpbUd8CbU9njW-6nFrwOeM">
+    <LoadScript googleMapsApiKey="AIzaSyCfaV_XXXYmbhpbUd8CbU9njW-XXXXXXXX">
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
